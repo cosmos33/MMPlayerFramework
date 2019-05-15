@@ -1,0 +1,6 @@
+framework module MMCrypt {
+  umbrella header "MMCrypt.h"
+
+  export *
+  module * { export * }
+}
